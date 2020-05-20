@@ -1,0 +1,71 @@
+.container {
+	width: 1170px;
+	margin: 0 auto;
+	margin-top: 250px
+}
+.d-inline-block {
+	display: inline-block;
+}
+
+.logo-image {
+	vertical-align: middle;
+}
+.navigation {
+	vertical-align: middle;
+}
+.navigation-li {
+	margin-left: 220px;
+	margin-top: 95px
+}
+.nav-a {
+	font-size: 48px
+	color: red
+}
+.logo-image {
+	float: right;
+    margin: 90px
+}
+	
+
+/*Start 2-nd Section*/
+.title-font {
+	font-family: 'ALK Life';
+}
+.section-title{
+	font-size: 24px;
+	text-transform: uppercase;
+	font-family: 'Roboto';
+	font-style: italic;
+}
+.section-title a{
+	text-transform: lowercase;
+}
+.grey-wraper {
+	background-color: #F2F2F2;
+	width: 570px;
+	padding: 18px;
+}
+.wraper-p{
+	width: 355px;
+	vertical-align: top;
+	margin-left: 60px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 500;
+}
+.wraper-image1 {
+	float: right;
+}
+.wraper-image2 {
+	float: left;
+}
+.grey-wraper h3 {
+	margin-bottom: 20px;
+}
+.active-margin {
+	margin-right: 29px;
+}
+.map iframe {
+	width: 874px;
+	height: 466px;
+}

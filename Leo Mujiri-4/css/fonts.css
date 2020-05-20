@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'ALK Life';
+    src: url('../fonts/alk-life-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-life-webfont.eot?#iefix') format('embedded-opentype'), 
+         url('../fonts/alk-life-webfont.woff2') format('woff2'), 
+         url('../fonts/alk-life-webfont.woff') format('woff'), /
+         url('../fonts/alk-life-webfont.ttf') format('truetype'), 
+         url('../fonts/alk-life-webfont.svg#alk_liferegular') format('svg');
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-BlackItalic.eot');
+    src: url('../fonts/Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Roboto-BlackItalic.woff') format('woff'),
+        url('../fonts/Roboto-BlackItalic.svg#Roboto-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
